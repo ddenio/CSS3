@@ -1,0 +1,88 @@
+
+body{
+  background-color: lightblue;
+}
+
+h1 {
+  line-height: 100%;
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:300%;
+  color:rgb(255,255,0);
+  background-color:rgba(0,0,255,1);
+  text-align: center;
+}
+
+h2{
+  line-height: 100%;
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:200%;
+  color:rgb(255,255,0);
+  background-color:rgba(0,0,255,.5);
+  text-align: left;
+}
+
+section {
+  line-height: 125%;
+  background-color:rgb(51, 153, 102);
+  
+}
+
+nav {
+  line-height: 150%;
+  background-color:rgb(51, 153, 102);
+  text-align: center;
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:125%;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(255,255,255);
+  font-family: Georgia;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(51, 153, 255);
+  text-shadow: 2px 2px rgb(0,0,0);
+  font-family: Georgia;
+}
+
+li {
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:115%;
+  color: rgb(255,255,255);
+}
+
+label {
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:115%;
+  color: rgb(255,255,255);
+}
+
+summary {
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:115%;
+  color: rgb(255,255,255);
+}
+
+p {
+  font-variant: small-caps;
+  font-family: Georgia;
+  font-size:115%;
+  color: rgb(255,255,255);
+  font-style: italic;
+}
+
+#footertext {
+  
+  font-family: Arial;
+  font-size:100%;
+  color: rgb(0,0,0);
+}
